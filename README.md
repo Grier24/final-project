@@ -1,1 +1,3 @@
-# final-project
+npm install
+
+npm start
